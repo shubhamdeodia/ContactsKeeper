@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": "d5616496-fffc-436e-b28d-f29b2f943fd7",
+      "name": "shubham",
+      "address": "17 Sunset Dr.Bemidji, MN 56601",
+      "email": "shubham.deodia@gmail.com",
+      "phone": "+357 95611720",
+      "favorite": true
+    },
+    {
+      "id": "9a1d2ce0-be06-45bc-a7ef-c9f6559e8b40",
+      "name": "Linda Fisher",
+      "address": "742 Arcadia Ave. Greenfield, IN 46140",
+      "email": "linda.fisher39@example.com",
+      "phone": "(444)-910-3173",
+      "favorite": true
+    }
+  ]
+}
