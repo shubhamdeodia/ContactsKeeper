@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import './App.css';
 import 'materialize-css/dist/css/materialize.min.css';
-import Materilize from 'materialize-css/dist/js/materialize.min';
+import Materialize from 'materialize-css/dist/js/materialize.min';
 import { Provider } from 'react-redux';
 import SearchBar from './layout/SearchBar';
 import Contacts from './Components/Contacts/Contacts';
@@ -14,7 +14,7 @@ import store from './store/store';
 
 function App() {
     useEffect(() => {
-        Materilize.AutoInit();
+        Materialize.AutoInit();
     });
 
     return (
